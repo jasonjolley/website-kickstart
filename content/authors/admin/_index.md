@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include leading engineering teams, cloud technologies, applying technology to make an impact in daily life.
 
 interests:
 - Artificial Intelligence
